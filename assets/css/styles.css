@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 50%, rgba(0,212,255,1) 100%);
+    color: rgb(201, 167, 167);
+}
+button{
+    color: brown;
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+}
+button:hover{
+    transition-duration: 0.4s;
+    width: 150px;
+    height: 50px;
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    color: white;
+}
